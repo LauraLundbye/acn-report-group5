@@ -1,0 +1,1 @@
+The repo contains the scripts for the preprocessing and analysis, numbered 1 to 10, as well as the folder structure for the output. The folders are empty apart from .gitkeep files for pushing with git.
