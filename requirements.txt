@@ -1,0 +1,11 @@
+ipykernel
+matplotlib
+mne[data]
+ipywidgets
+pandas
+scikit-learn
+ipympl
+h5io
+nibabel
+dipy
+nilearn
